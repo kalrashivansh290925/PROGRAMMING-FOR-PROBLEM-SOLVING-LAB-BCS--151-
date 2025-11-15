@@ -1,5 +1,5 @@
-//To WAP that accepts the marks of 5 subjects and find the SUM and PERCENTAGE marks obtained by the students.
-                                          
+//To         WAP that accepts the marks of 5 subjects and find the SUM and PERCENTAGE marks obtained by the students.
+                                  
 #include <stdio.h>
 
 int main()
@@ -30,5 +30,3 @@ int main()
 	
 	return 0;
 }
-
-
